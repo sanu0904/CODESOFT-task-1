@@ -1,2 +1,10 @@
-# CODESOFT-task-1
-CodeSoft  Internship   Task
+📌 # CODESOFT-task-1
+
+
+Alex is a basic chatbot created for learning purposes and internship projects. It can respond to simple user messages like greetings, chatbot name, Developer name, and basic questions.
+
+The project is easy to understand and perfect for interaction
+
+✨ Features- Rule-based responses Interactive conversation Exit option using bye
+
+🛠️ Technologies Used Python
